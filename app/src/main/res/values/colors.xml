@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Elegant Calculator Palette -->
+    <color name="bg_color">#17171C</color>
+    <color name="display_bg">#17171C</color>
+    <color name="btn_number_bg">#2E2F38</color>
+    <color name="btn_operator_bg">#4B5EFC</color>
+    <color name="btn_special_bg">#4E505F</color>
+    <color name="text_color_primary">#FFFFFF</color>
+    <color name="text_color_secondary">#747477</color>
+</resources>
